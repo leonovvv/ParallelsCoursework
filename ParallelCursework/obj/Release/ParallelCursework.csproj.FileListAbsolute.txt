@@ -1,0 +1,6 @@
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\bin\Release\ParallelCursework.exe.config
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\bin\Release\ParallelCursework.exe
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\bin\Release\ParallelCursework.pdb
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Release\ParallelCursework.csproj.CoreCompileInputs.cache
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Release\ParallelCursework.exe
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Release\ParallelCursework.pdb

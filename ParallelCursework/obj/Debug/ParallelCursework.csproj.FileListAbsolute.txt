@@ -1,0 +1,7 @@
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\bin\Debug\ParallelCursework.exe.config
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\bin\Debug\ParallelCursework.exe
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\bin\Debug\ParallelCursework.pdb
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Debug\ParallelCursework.csprojAssemblyReference.cache
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Debug\ParallelCursework.csproj.CoreCompileInputs.cache
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Debug\ParallelCursework.exe
+C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Debug\ParallelCursework.pdb
