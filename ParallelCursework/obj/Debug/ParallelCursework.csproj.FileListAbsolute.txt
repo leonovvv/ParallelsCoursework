@@ -5,3 +5,17 @@ C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Debug\Parallel
 C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Debug\ParallelCursework.csproj.CoreCompileInputs.cache
 C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Debug\ParallelCursework.exe
 C:\Users\wsu\source\repos\ParallelCursework\ParallelCursework\obj\Debug\ParallelCursework.pdb
+C:\Users\Вадим\Desktop\CurseA4\ParallelCursework\bin\Debug\ParallelCursework.exe.config
+C:\Users\Вадим\Desktop\CurseA4\ParallelCursework\bin\Debug\ParallelCursework.exe
+C:\Users\Вадим\Desktop\CurseA4\ParallelCursework\bin\Debug\ParallelCursework.pdb
+C:\Users\Вадим\Desktop\CurseA4\ParallelCursework\obj\Debug\ParallelCursework.csprojAssemblyReference.cache
+C:\Users\Вадим\Desktop\CurseA4\ParallelCursework\obj\Debug\ParallelCursework.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\CurseA4\ParallelCursework\obj\Debug\ParallelCursework.exe
+C:\Users\Вадим\Desktop\CurseA4\ParallelCursework\obj\Debug\ParallelCursework.pdb
+D:\Leonov\CurseA4\ParallelCursework\bin\Debug\ParallelCursework.exe.config
+D:\Leonov\CurseA4\ParallelCursework\bin\Debug\ParallelCursework.exe
+D:\Leonov\CurseA4\ParallelCursework\bin\Debug\ParallelCursework.pdb
+D:\Leonov\CurseA4\ParallelCursework\obj\Debug\ParallelCursework.csprojAssemblyReference.cache
+D:\Leonov\CurseA4\ParallelCursework\obj\Debug\ParallelCursework.csproj.CoreCompileInputs.cache
+D:\Leonov\CurseA4\ParallelCursework\obj\Debug\ParallelCursework.exe
+D:\Leonov\CurseA4\ParallelCursework\obj\Debug\ParallelCursework.pdb
